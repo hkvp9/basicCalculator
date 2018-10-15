@@ -1,0 +1,46 @@
+
+
+body {
+ 	 background-color: #3fb399;
+
+}
+
+.container{
+	color: #1f262a;
+	width:480px;
+	margin:120px auto;
+	background-color: white;
+
+}
+
+td{
+	width:25%;
+}
+
+table {
+
+	width: 100%;
+    border-style:1px solid;
+    border-color: #333333;
+
+
+}
+
+button{
+	width: 100%;
+	height: 60px;
+	font-family: Consolas, monaco, monospace;
+	font-size: 24px;
+	color: white;
+	border:none;
+}
+
+#calculatorInput{
+	font-size: 40px;
+	height: 120px;
+	vertical-align: bottom;
+	text-align: right;
+	padding-right: 16px;
+	background: #ececec;
+
+}
